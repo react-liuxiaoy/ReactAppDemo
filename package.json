@@ -7,6 +7,8 @@
     "react-test-renderer": "^16.4.0"
   },
   "dependencies": {
+    "framework7": "^3.5.2",
+    "framework7-react": "^3.5.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
